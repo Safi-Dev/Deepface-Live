@@ -8,6 +8,7 @@ This Python script uses the DeepFace library and OpenCV to perform real-time ana
 - OpenCV
 - DeepFace
 - Pygame
+- tf-keras
 
 To install the required libraries, run the following commands:
 
@@ -15,6 +16,7 @@ To install the required libraries, run the following commands:
 pip install opencv-python
 pip install deepface
 pip install pygame
+pip install tf-keras
 ```
 
 ## Usage
